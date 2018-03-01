@@ -22,8 +22,12 @@ Setting an example to send the report mail twice a day.
 	MAILTO=hoge@example.com
 	59      11,23   *       *       *       /path/to/dir/status/status.sh
 
-##License
+## License
 
-status.sh is distributed under GPLv2.
+distributed under [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html).
+
+## Author
+
+[thingsym](https://github.com/thingsym)
 
 Copyright (c) 2015 thingsym
